@@ -27,8 +27,9 @@
 </p>
 
 #MH-antihack
-- just a small script to have fun weith the hackers, 
+- just a small script to have fun with the hackers, 
 - after you are done with the fun, you can crash the hackers FiveM.
+- note, if you use this on a player the player can have a server ban.
 
 
 # LICENSE
