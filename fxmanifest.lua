@@ -7,7 +7,7 @@ games { 'gta5' }
 
 author 'MaDHouSe'
 description 'MH Anti Hankers.'
-version '1.0'
+version '1.0.0'
 
 shared_scripts {
     'config.lua',
@@ -20,6 +20,7 @@ client_scripts {
 server_scripts {
     '@oxmysql/lib/MySQL.lua',
     'server/main.lua',
+    'server/update.lua',
 }
 
 dependencies {
